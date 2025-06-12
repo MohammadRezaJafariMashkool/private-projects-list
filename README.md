@@ -21,13 +21,13 @@
 🔒 **NalsaMedic Private** - Health and Medical file management
    (Java, Android)
    
-🔒 **nalsaPASMAND Private
+🔒 **nalsaPASMAND** Private
    (C#, Windows Forms, Microsoft SQL Server)
    
-🔒 **nalsaProjectBasedAccounting Private - Real state platform
+🔒 **nalsaProjectBasedAccounting** Private - Real state platform
    (HTML, Bootstrap, Css, Jquery)
    
-🔒 **nalsaAmoozesh Private
+🔒 **nalsaAmoozesh** Private
    (HTML, Css, Jquery, PHP, MySql)
    
 🔒 **nalsaAccounting Private** - Personal Accounting
