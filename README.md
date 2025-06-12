@@ -12,10 +12,10 @@
 🔒 **slaughterhouseBackEnd Private** - E-commerce platform
    (Node.js, Express.js, MongoDB)
    
-🔒 **mrjm Private
+🔒 **mrjm** Private
   (React, Next.js)
    
-🔒 **handyprosfrontend Private
+🔒 **handyprosfrontend** Private
   (React, Next.js)
   
 🔒 **NalsaMedic Private** - Health and Medical file management
@@ -45,10 +45,10 @@
 🔒 **nalsaMunicipality Private** - E-commerce platform
    (C#, Windows Forms, Microsoft SQL Server)
    
-🔒 **nalsaAmlak Private
+🔒 **nalsaAmlak** Private
    (C#, wpf, Microsoft SQL Server) 
    
-🔒 **WindowsFirewallConteroller Private
+🔒 **WindowsFirewallConteroller** Private
    (C#, Windows Forms)
    
 🔒 **AvameatFrontEnd Private** - E-commerce platform
